@@ -1,0 +1,9 @@
+{
+    "rss_feeds": [
+        "https://www.lemondeinformatique.fr/flux-rss/thematique/toutes-les-actualites/rss.xml",
+        "https://www.lemondeinformatique.fr/flux-rss/thematique/securite/rss.xml",
+        "https://www.lemondeinformatique.fr/flux-rss/thematique/open-source/rss.xml",
+        "https://www.lemondeinformatique.fr/flux-rss/thematique/infrastructures/rss.xml",
+        "https://www.lemondeinformatique.fr/flux-rss/thematique/developpement/rss.xml"
+    ]
+}
